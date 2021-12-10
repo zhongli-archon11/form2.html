@@ -101,6 +101,12 @@
 			</select>
 			<br><br>
 			
+			<!--
+			<label> Date of birth:</label>
+            		<input type="date" name="dob">
+            		<br><br>
+			-->
+			
 			<label>Address</label>
 			<textarea name="address" rows="5" cols="50"></textarea><br><br>
 			
